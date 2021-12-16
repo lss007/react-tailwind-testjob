@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .cstmSelectBtn {
+        background-color:#F8F8F8;
+    }
+    .labelCstm {
+        color:#8D8D8D;
+        font-size:10px;
+    }
+    .selectedValue {
+        color:#1F1F1F;
+        font-size:14px;
+        font-weight: 500;
+    }
+    .btnDark {
+        background-color:#1D1D1D;
+    }
+    .btnSpace {
+        padding:0 28px;        
+    }
+    .downloadBtn {
+        min-height:60px;
+    }
+}

@@ -1,4 +1,3 @@
-/* This example requires Tailwind CSS v2.0+ */
 import { Fragment, useState } from "react";
 import { Listbox, Transition } from "@headlessui/react";
 import ArrowDown from "../assets/images/arrowdown.svg";
